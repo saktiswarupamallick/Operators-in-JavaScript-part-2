@@ -9,10 +9,4 @@ var number = 17;
 var result = (number % 2 === 0) ? "Even" : "Odd";
 
 // Display the result
-console.log("The number is " + result + ".");var number = 17;
-
-// Use the ternary operator to check if the number is even or odd
-var result = (number % 2 === 0) ? "Even" : "Odd";
-
-// Display the result
 console.log("The number is " + result + ".");
